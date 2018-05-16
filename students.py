@@ -1,5 +1,5 @@
 from peewee import *
-
+"""hola solo verguenzas"""
 db=SqliteDatabase('students.db')
 
 class Student(Model):
